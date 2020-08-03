@@ -1,6 +1,6 @@
 # foundations-of-data-science
 
-Homework codes for [Foundations of Data Science](https://emap.fgv.br/disciplina/mestrado/fundamentos-de-ciencia-de-dados) (2020), in the Master's course in Mathematical Modeling at Fundação Getulio Vargas.
+Assignment codes for [Foundations of Data Science](https://emap.fgv.br/disciplina/mestrado/fundamentos-de-ciencia-de-dados) (2020), in the Master's course in Mathematical Modeling at Fundação Getulio Vargas.
 
 This course uses the material from [CS109a: Introduction to Data Science](https://harvard-iacs.github.io/2019-CS109A/), Harvard.
 
