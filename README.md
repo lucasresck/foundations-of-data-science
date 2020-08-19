@@ -6,7 +6,7 @@ This course uses the material from [CS109a: Introduction to Data Science](https:
 
 ## Topics covered
 
-- **[Homework 1: Web scrapping](https://github.com/lucasresck/foundations-of-data-science/tree/master/cs109a_hw1/)**
+- **[Homework 1: Web Scrapping](https://github.com/lucasresck/foundations-of-data-science/tree/master/cs109a_hw1/)**
   - Web Scrapping
   - RegEx
   - BeautifulSoup
