@@ -29,6 +29,7 @@ This course uses the material from [CS109a: Introduction to Data Science](https:
     - Simple and Multiple Logistic Regression
     - LDA, QDA and kNN
     - Decision boundaries
-  
-It's being develop [Espotifai](https://github.com/lucasresck/espotifai), an Automatic Playlist Recommender, as the final project for this course.
+- **[Final project: Espotifai](https://github.com/lucasresck/espotifai)**
+  - Playlist continuation
+  - Music recommendation
 
